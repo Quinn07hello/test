@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
+
 flashAlpha=0;
 flashColour = c_red;
 global.keys = 0;
@@ -14,9 +16,11 @@ invTimer = 3;
 xSpeed = 4;
 xDirection = 0;
 
-grv = .05;
+grv = .15;
 
 
 xVector = 0;
 yVector=0;
 jumpForce =-8;
+
+damage = 75;

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+fastgrav = keyboard_check_pressed(vk_down)
 right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
 jumping = keyboard_check_pressed(vk_space);
@@ -22,7 +22,6 @@ if (attackOne = true)
 		attackTimer= 1;
 	}
 }
-
 
 
 
