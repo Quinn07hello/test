@@ -8,7 +8,14 @@ if(shoottimer <=0)
 	shoottimer=3;
 }
 
-
+if (oPlayer.x > x )
+{
+	sprite_index = sTurretRight;
+}
+if ( oPlayer.x <x)
+{
+	sprite_index = sTurretLeft
+}
 
 
 

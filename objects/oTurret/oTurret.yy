@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oTurret",
   "spriteId": {
-    "name": "sTurretRight",
-    "path": "sprites/sTurretRight/sTurretRight.yy",
+    "name": "sTurretLeft",
+    "path": "sprites/sTurretLeft/sTurretLeft.yy",
   },
   "solid": false,
   "visible": true,

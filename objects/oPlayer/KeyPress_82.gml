@@ -2,4 +2,5 @@
 // You can write your code in this editor
 
 
-instance_destroy();
+	sprite_index =sPlayerAttack1Right
+	attackOne = true

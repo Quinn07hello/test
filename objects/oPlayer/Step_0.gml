@@ -6,12 +6,8 @@ right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
 jumping = keyboard_check_pressed(vk_space);
 //down = keyboard_check(vk_down);
-if keyboard_check_pressed(vk_control)
-{
-	sprite_index =sPlayerAttack1
-	attackOne = true
-	
-}
+
+
 if (attackOne = true)
 {
 	attackTimer -= 1 / room_speed
