@@ -23,4 +23,7 @@ xVector = 0;
 yVector=0;
 jumpForce =-8;
 
+fastgrav=false;
+
+
 damage = 75;

@@ -1,10 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-fastgrav = keyboard_check_pressed(vk_down)
+
 right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
-jumping = keyboard_check_pressed(vk_space);
+jumping = keyboard_check_pressed(vk_up);
 //down = keyboard_check(vk_down);
 
 
@@ -18,6 +18,14 @@ if (attackOne = true)
 		attackTimer= 1;
 	}
 }
+//if (keyboard_check_pressed(vk_down))
+//{
+//	fastgrav=true;
+//}
+// if (fastgrav=true)
+//{
+//	grv=grv*2;
+//}
 
 
 
