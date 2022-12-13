@@ -15,7 +15,7 @@ if (attackOne = true)
 	{
 			sprite_index =sPlayer
 		attackOne = false;
-		attackTimer= 1;
+		attackTimer= .25;
 	}
 }
 //if (keyboard_check_pressed(vk_down))

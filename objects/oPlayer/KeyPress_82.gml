@@ -4,3 +4,6 @@
 
 	sprite_index =sPlayerAttack1Right
 	attackOne = true
+	
+	
+	
